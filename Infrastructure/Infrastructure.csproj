@@ -19,7 +19,6 @@
 
   <ItemGroup>
     <Folder Include="Identity\" />
-    <Folder Include="Data\" />
   </ItemGroup>
 
   <ItemGroup>
